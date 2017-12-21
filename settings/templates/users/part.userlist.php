@@ -1,4 +1,4 @@
-<table id="userlist" class="hascontrols grid" data-groups="<?php p($_['allGroups']);?>">
+<table id="userlist" class="grid" data-groups="<?php p($_['allGroups']);?>">
 	<thead>
 		<tr>
 			<th id="headerAvatar" scope="col"></th>
